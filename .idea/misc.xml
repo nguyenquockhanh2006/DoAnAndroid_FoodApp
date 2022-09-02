@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android project/FOOD/app/src/main/res/drawable/side_nav_bar.xml" value="0.1335" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/drawable/sua.xml" value="0.175" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_chi_thiet_mon_an.xml" value="0.1" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_chi_tiet_nguoi_dung.xml" value="0.15904232578024796" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_dang_bv.xml" value="0.176" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_dangky.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_dangnhap.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_list_mon_an.xml" value="0.1" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_sua_ho_so.xml" value="0.2" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_suamonan.xml" value="0.25" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_test.xml" value="0.1735784523300556" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_tim_kiem.xml" value="0.2" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/activity_trangchu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/app_bar_trangchu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/content_trangchu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_blank.xml" value="0.115861479264643" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_change_pass.xml" value="0.25" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_dang_xuat.xml" value="0.20478837109876016" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_gallery.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_love.xml" value="0.20863616930312098" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_save.xml" value="0.14792646430098333" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_slideshow.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_suathongtin.xml" value="0.2" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_thich.xml" value="0.1" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_yeu_thich.xml" value="0.18896964514749892" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/fragment_yeu_thich_list.xml" value="0.1774262505344164" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/item.xml" value="0.20081595648232095" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/layout/nav_header_trangchu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Android project/FOOD/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/FOOD/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="..\:/FOOD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16" />
+        <entry key="..\:/FOOD/app/src/main/res/drawable/ic_menu_camera.xml" value="0.137" />
+        <entry key="..\:/FOOD/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1775" />
+        <entry key="..\:/FOOD/app/src/main/res/drawable/side_nav_bar.xml" value="0.146" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_batdau.xml" value="0.25" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_dang_bv.xml" value="0.25" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_dangky.xml" value="0.22" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_dangnhap.xml" value="0.1317365269461078" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_star.xml" value="0.33" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_sua_ho_so.xml" value="0.25" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/activity_trangchu.xml" value="0.22447916666666667" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/app_bar_trangchu.xml" value="0.22" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/botron.xml" value="0.20677083333333332" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/content_trangchu.xml" value="0.22447916666666667" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/fragment_slideshow.xml" value="0.33" />
+        <entry key="..\:/FOOD/app/src/main/res/layout/nav_header_trangchu.xml" value="0.33" />
+        <entry key="..\:/FOOD/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/FOOD/app/src/main/res/menu/trangchu.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

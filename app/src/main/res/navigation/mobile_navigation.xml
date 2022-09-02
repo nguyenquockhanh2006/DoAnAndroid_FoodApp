@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.yentrinh.food.ui.XuLiLuaChon_MenuItem.Fragment.HomeFragment"
+        android:label="Trang chủ"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.yentrinh.food.ui.XuLiLuaChon_MenuItem.Fragment.GalleryFragment"
+        android:label="Hồ sơ"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.yentrinh.food.ui.XuLiLuaChon_MenuItem.Fragment.SlideshowFragment"
+        android:label="Quản lí công thức"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_doipass"
+        android:name="com.yentrinh.food.ui.XuLiLuaChon_MenuItem.Fragment.FragmentChangePass"
+        android:label="Đổi mật khẩu"
+        tools:layout="@layout/fragment_change_pass" />
+    <fragment
+        android:id="@+id/nav_save"
+        android:name="com.yentrinh.food.ui.XuLiLuaChon_MenuItem.Fragment.SaveFragment"
+        android:label="Đã lưu"
+        tools:layout="@layout/fragment_save" />
+
+    <fragment
+        android:id="@+id/nav_love"
+        android:name="com.yentrinh.food.ui.XuLiLuaChon_MenuItem.Fragment.LoveFragment"
+        android:label="Tìm kiếm"
+        tools:layout="@layout/fragment_love" />
+    <fragment
+        android:id="@+id/nav_Dangxuat"
+        android:name="com.yentrinh.food.ui.XuLiLuaChon_MenuItem.Fragment.DangXuat"
+        android:label="Đăng xuất"
+        tools:layout="@layout/fragment_dang_xuat" />
+
+</navigation>

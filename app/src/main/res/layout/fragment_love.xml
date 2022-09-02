@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.XuLiLuaChon_MenuItem.Fragment.LoveFragment"
+    android:background="@color/white"
+    >
+
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Có thể thực hiện kiếm món ăn qua tên, qua loại."
+        android:textSize="18dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="20dp"
+        />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:onClick="ChuyenDenTimKiem"
+        android:layout_marginTop="200dp"
+        android:text="Chuyển đến tìm kiếm"
+
+
+        />
+
+</FrameLayout>
